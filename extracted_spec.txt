@@ -1,0 +1,226 @@
+---
+name: Spooky Stationery KZ
+colors:
+  surface: '#131313'
+  surface-dim: '#131313'
+  surface-bright: '#3a3939'
+  surface-container-lowest: '#0e0e0e'
+  surface-container-low: '#1c1b1b'
+  surface-container: '#201f1f'
+  surface-container-high: '#2a2a2a'
+  surface-container-highest: '#353534'
+  on-surface: '#e5e2e1'
+  on-surface-variant: '#e2bfb0'
+  inverse-surface: '#e5e2e1'
+  inverse-on-surface: '#313030'
+  outline: '#a98a7d'
+  outline-variant: '#5a4136'
+  surface-tint: '#ffb693'
+  primary: '#ffb693'
+  on-primary: '#561f00'
+  primary-container: '#ff6b00'
+  on-primary-container: '#572000'
+  inverse-primary: '#a04100'
+  secondary: '#ffb4aa'
+  on-secondary: '#690003'
+  secondary-container: '#e10111'
+  on-secondary-container: '#fff1ef'
+  tertiary: '#c7c6c6'
+  on-tertiary: '#2f3131'
+  tertiary-container: '#999999'
+  on-tertiary-container: '#303132'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#ffdbcc'
+  primary-fixed-dim: '#ffb693'
+  on-primary-fixed: '#351000'
+  on-primary-fixed-variant: '#7a3000'
+  secondary-fixed: '#ffdad5'
+  secondary-fixed-dim: '#ffb4aa'
+  on-secondary-fixed: '#410001'
+  on-secondary-fixed-variant: '#930007'
+  tertiary-fixed: '#e3e2e2'
+  tertiary-fixed-dim: '#c7c6c6'
+  on-tertiary-fixed: '#1a1c1c'
+  on-tertiary-fixed-variant: '#464747'
+  background: '#131313'
+  on-background: '#e5e2e1'
+  surface-variant: '#353534'
+typography:
+  headline-xl:
+    fontFamily: Montserrat
+    fontSize: 48px
+    fontWeight: '800'
+    lineHeight: 56px
+    letterSpacing: -0.02em
+  headline-xl-mobile:
+    fontFamily: Montserrat
+    fontSize: 32px
+    fontWeight: '800'
+    lineHeight: 40px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Montserrat
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Montserrat
+    fontSize: 26px
+    fontWeight: '700'
+    lineHeight: 34px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Montserrat
+    fontSize: 24px
+    fontWeight: '700'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Montserrat
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+  body-lg:
+    fontFamily: Inter
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+  body-md:
+    fontFamily: Inter
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 22px
+  body-sm:
+    fontFamily: Inter
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 18px
+  label-lg:
+    fontFamily: Montserrat
+    fontSize: 14px
+    fontWeight: '700'
+    lineHeight: 20px
+    letterSpacing: 0.02em
+  label-md:
+    fontFamily: Montserrat
+    fontSize: 12px
+    fontWeight: '700'
+    lineHeight: 16px
+    letterSpacing: 0.03em
+  label-sm:
+    fontFamily: Montserrat
+    fontSize: 10px
+    fontWeight: '800'
+    lineHeight: 14px
+    letterSpacing: 0.05em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1rem
+  gutter-desktop: 1.5rem
+  margin: 1rem
+  margin-desktop: 2rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+This design system sets the aesthetic for a spirited, dark-mode e-commerce destination tailored to school children, teenagers, and university students across Kazakhstan seeking quirky Halloween-themed stationery, desk accessories, and collectibles.
+
+The design identity fuses **playful gothic whimsy** with **sleek modern e-commerce ergonomics**. Rather than relying on gory horror, the style leans into festive midnight energy: glowing jack-o'-lantern ambiances, crisp container surfaces, punchy neon luminescence, and cheerful pop iconography. The interface must evoke excitement, curiosity, and festive anticipation while maintaining pristine clarity for fast catalog browsing, basket building, and localized checkout (Kaspi Pay, Halyk, card payments).
+
+Visual movement draws from modern high-contrast digital storefronts: pitch-black foundations, elevated obsidian tiles, razor-sharp white typography, energetic neon orange borders, and dramatic blood-red tags for urgency and discounts.
+
+## Colors
+The palette is built around deep dark-mode contrast, engineered specifically for high visual pop on OLED and mobile screens:
+
+- **Canvas & Surfaces:**
+  - Base canvas (`#0D0D0D`): Pitch abyss that recedes into the background.
+  - Card & Container Surface (`#1A1A1A`): Lifted charcoal for clear interactive grouping.
+  - Elevated Popovers & Dropdowns (`#242424`): Highest tonal step for contextual floating overlays.
+- **Accents:**
+  - Vivid Halloween Orange (`#FF6B00`): The primary interaction beacon. Used for primary CTAs, active states, cart counters, and radiant neon halos.
+  - Blood Red (`#E50914`): Secondary accent reserved for discount callouts ("Скидка -30%"), stock scarcity alerts ("Осталд`tc�4b4`���K[��][\��܋�\��X�]�H��Y�X�][ۜ˂�H
+���ܙ\��	�]�Y\�Ί���H��X�\�H�ܙ\�
+�������
+N��X�H�۝Z[�Y[��]�[�[���\��YYY�Z[��\��ܛ�[�˂�H���[�����\��X�]�H�ܙ\�
+ё���
+N�\8�$̜�]\��[��ۈX�]�H[�]�[�ݙ\��]\˂�H
+��\�ܘ\N����Hܚ\��]H
+ё�����
+N��Z[�[�Y�X�۝�\�^�܈XY\���X�\�[�[�\�X�]�HX�[˂�H]]Y^
+�LLL
+N��X�ۙ\�H\�ܚ\[ۜ��]Y�ܞH��XYܝ[X��Y]Y]K[�X�Z�\���K�����\�ܘ\B�\�ܘ\H�[[��\��\�X�\��[[��HXY[�\��][[XX�[]H�\�[X�Y�X�[]K���H
+��\�^H	�XY[�\�
+[۝�\��]
+N����[�Y]�X���[�[�\��]Xˈ]��YH��ܝ[ۜ�[���Y�\�[X��\�XZ�H�\��X[���[�[ۘ[�[��\��\���[��[��X�[ۈ]\��Y[[�]�[[�[��K��H
+����H	��[��[ۘ[RH
+[�\�N���Y�HY�X�K�]]�[�ܚ�ܜ�K�[��\�\�[��H��X��X�Y�X�][ۜ�[]�\�H��\�[��\��]�[[X\�Y\��[XZ[�Y��ܝ\����XY]�[�ۈ[��K[]�[[ؚ[H]�X�\˂�H
+���X�H�ܛX]����X�\�][^�H[۝�\��]���^�P��Z\�Y\�X�H�]H�^�Z��[�[��H�Yێ��L8���H�ۋX��XZ�[���X�H�\\�]\��\�[�˂����^[�]	��X�[�H�ZYL�X��[[�ܚY�ݙ\���\����Y]��[���[��][ۚ[��[��H�X��[[�ܚYۈX�]�[�HX��[[���X�\�Hۈ[ؚ[H]�X�\˂��H
+��ܚY\��]X�\�N����H[ؚ[H
+͎
+N���[[��X\��[��\�[X�]\��\�[X���X�\��\�^H[�HY�Y�][\��X��[[��\�ܚY��HX�]
+͎8�$�L�
+N����[[��X\��[��K�\�[X�]\��K��\�[X��X��[[���X�\��[��[Y[�˂�H\���
+�L�
+N�L���[[��X^]�YL��[�\�Y�۝Z[�\�X\��[����[X�]\��K�\�[X��H
+���]H�[\Ί���HY�H��\Y[[Y[��
+X�ۈ
+�X�[�Y�H^
+�[
+H][^�H�X�K^�
+
+H܈�X�K\�X
+
+K��H�ܛH�Y[ܛ�\[���[�[�\��[�\�Y[��\�H�X�K[Y
+M�
+K��H��\ۙ[��X���[��\��\\�][ۈ\�H�X�K[�
+�
+K��H�X�[ۋ]�\�X�[ۈ�\��]]�H�[��][ۜ�\�H�X�K^
+
+K�����[]�][ۈ	�\�\[�\�\��[�]�\��H]��Y�]YH���Y���[��]�܈وܚ\�ۘ[Y\�[��X��[�Y�H�YX[��X��[��[[�\��[Z[�\��[��N���H
+��]�[
+�[��\�N���\�H��\�K��H
+��]�[H
+�\��	�[�[\�N����PLPLPX�]H\��Y���������[�\�K��H
+��]�[�
+ݙ\�Y	�X�]�H][\�N����QLQLQX�\��X�H�]H[�[ZX��[ۈ����Y�ΈM��ؘJ�MKL���JX�[��][ۚ[��H�ܙ\��ё�����H
+��]�[�
+[�[�ݙ\�^\���][���\�
+N���̍���X��Y�HH�X�����\�
+�X����Y�[\���\�L�
+X
+H[�HY\][��\�X��Y�ΈL�̜�ؘJ�
+K��ؘJ�MKL��MJX��H
+��\��[����\��]HX��[�����\��[H�[��\��[����\�Y�\���\�H�X�H[��\�]\�N�M��ؘJ��KK���X������\\�[�Y]�H\���Y[�K�ٝ[�\��X�X�K�]]�[^�[��H�[�X[H\��[[Y[��و[��Y[�[��[�[��][���]Z[][��\�K���H
+���[X\�H�Y]\�
+��[�Y[YL�
+N���\YY�[�]�Y[�Z[�H�Y�\�[X��Z[ܘ\\���X\���\��[�]X[�]H�\\�˂�H
+���۝Z[�\��Y]\�
+��[�Y[�M�
+N����[�\�Xܛ�����X��\����[�[ۘ[�[�]�[�[�[��X���]�[[X\�H�Y]˂�H
+���[[
+��[�YY�[
+N���\YY��]\��Y�\��\��]Y�ܞH�[\��[��[X\�H�]ۈ�\���Z[��ܘ�HH^Y�[�K\�ܙHX�[]K�������\ۙ[������]ۜH
+���[X\�H�H
+�$�4.�-}��2"�-	�M���-�}�r"����f���VB4dcd#�FW�B3CCF��"4dddddf&��B��gV�����6�R�&�V�FVB�gV��������fW"�66�W2'��"v�F����FV�6R&����6�F�r�#�&v&�#SR�r���b������6V6��F'�7F����-	��M��]R"�-	�-������-"����v��7B7G��Rv�F�3&6�w&�V�B��&�&FW"3333336�FW�B4dddddf���fW"6��vW2&�&FW"F�4dcd#�BFW�BF�4dcd#����FW7G'V7F�fR�W&vV�B7F����-
+=M��-�"�-	�}�-�-�"����G&�6�V6V�B&VB&6�w&�V�B&v&�##����#��R��FW�B4SS�F�&�&FW"&v&�##����#��B�ࠢ222&�GV7B6&G0��'V��B��3v�F�g�&�&FW"�&F�W2�B�3333336&�&FW"����vW26�B��6Ɩv�FǒF&�V�VB��6WB&���3##&�F����r7F�6�W"7FF���W'��v��v��rV�2��BF��2F��6�V�ǒ��&�6RF�7��VB���VFƖ�R�6�v�F�7&�74dddddf�BFV�vR7��&���(+�����B&�6R��bF�66�V�FVB�7G'V6�F�&�Vv���4��F���VgB6��B&W6W'fVBf�"f��F��r&FvW2�
+]	�
+&�	�	�	-	�	�	�	��3V�ࠢ222&FvW2b6��0����6FVv�'�6��2�-
+-]-M�"�-
+=}���-��-�"�-
+��}�������"�-	���]���"��������6�VB�3&6R��3333336�WFƖ�R�4FW�B�v�V�6V�V7FVC�4dcd#&6�w&�V�B�3CCFFW�B�&��BvV�v�B����&���&FvW3�������6�VB����G6W'&B�&V��6�WW&66R��&���B&VB&FvS�4SS�F&6�w&�V�Bv�F�4dddddfFW�Bf�"6�W2�"�CR"���7�����V��&FvS�4dcd#&6�w&�V�Bv�F�3CCFFW�Bf�"��fV�F�W2�-
+]	�
+""�ࠢ222f�&���WG2b6V&6�����WG2fVGW&R3CCF&6�w&�V�B�'�&�V�FVB6�&�W'2�3333336&�&FW"��B4dddddfG�VBFW�Bv�F�4�6V���FW"�-	��-�=}����-���������-����"���7F�fR�f�7W6VB7FFS��W�&�&FW"4dcd#v�F�7V'F�R������&v&�#SR�r���2��ࠢ2226�V6�&��W2b&F��'WGF��0��#�&�V�FVB7V&W2�6�V6�&����"6�&6�W2�&F���'�&�&FW"3333336�&6�w&�V�B3��6�V6�VB7FFRf���2v�F�4dcd#�fVGW&��r7&�73CCF6�V6��&��"6V�FW"�ࠢ222&�6R7FWW"�V�F�G�6V�V7F�"�����FVw&FVB���V�B6��F���r(	6��V�W&�2V�F�G���B���'WGF��2&Rf�B6�&6��v�F�4dcd#�6��7��&��3��V�W&�2f�VR&V�FW&VB��&��B��FW"v��FR

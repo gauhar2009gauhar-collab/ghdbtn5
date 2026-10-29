@@ -1,0 +1,6 @@
+{
+  "name": "Spooky Stationery KZ",
+  "description": "Festive dark-mode e-commerce destination for spooky stationery, grimoire journals, and desk oddities in Kazakhstan with Kaspi Pay.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

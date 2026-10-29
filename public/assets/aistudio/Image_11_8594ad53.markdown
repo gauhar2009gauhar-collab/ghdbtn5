@@ -1,0 +1,226 @@
+---
+name: Spooky Stationery KZ
+colors:
+  surface: '#131313'
+  surface-dim: '#131313'
+  surface-bright: '#3a3939'
+  surface-container-lowest: '#0e0e0e'
+  surface-container-low: '#1c1b1b'
+  surface-container: '#201f1f'
+  surface-container-high: '#2a2a2a'
+  surface-container-highest: '#353534'
+  on-surface: '#e5e2e1'
+  on-surface-variant: '#e2bfb0'
+  inverse-surface: '#e5e2e1'
+  inverse-on-surface: '#313030'
+  outline: '#a98a7d'
+  outline-variant: '#5a4136'
+  surface-tint: '#ffb693'
+  primary: '#ffb693'
+  on-primary: '#561f00'
+  primary-container: '#ff6b00'
+  on-primary-container: '#572000'
+  inverse-primary: '#a04100'
+  secondary: '#ffb4aa'
+  on-secondary: '#690003'
+  secondary-container: '#e10111'
+  on-secondary-container: '#fff1ef'
+  tertiary: '#c7c6c6'
+  on-tertiary: '#2f3131'
+  tertiary-container: '#999999'
+  on-tertiary-container: '#303132'
+  error: '#ffb4ab'
+  on-error: '#690005'
+  error-container: '#93000a'
+  on-error-container: '#ffdad6'
+  primary-fixed: '#ffdbcc'
+  primary-fixed-dim: '#ffb693'
+  on-primary-fixed: '#351000'
+  on-primary-fixed-variant: '#7a3000'
+  secondary-fixed: '#ffdad5'
+  secondary-fixed-dim: '#ffb4aa'
+  on-secondary-fixed: '#410001'
+  on-secondary-fixed-variant: '#930007'
+  tertiary-fixed: '#e3e2e2'
+  tertiary-fixed-dim: '#c7c6c6'
+  on-tertiary-fixed: '#1a1c1c'
+  on-tertiary-fixed-variant: '#464747'
+  background: '#131313'
+  on-background: '#e5e2e1'
+  surface-variant: '#353534'
+typography:
+  headline-xl:
+    fontFamily: Montserrat
+    fontSize: 48px
+    fontWeight: '800'
+    lineHeight: 56px
+    letterSpacing: -0.02em
+  headline-xl-mobile:
+    fontFamily: Montserrat
+    fontSize: 32px
+    fontWeight: '800'
+    lineHeight: 40px
+    letterSpacing: -0.01em
+  headline-lg:
+    fontFamily: Montserrat
+    fontSize: 36px
+    fontWeight: '700'
+    lineHeight: 44px
+    letterSpacing: -0.02em
+  headline-lg-mobile:
+    fontFamily: Montserrat
+    fontSize: 26px
+    fontWeight: '700'
+    lineHeight: 34px
+    letterSpacing: -0.01em
+  headline-md:
+    fontFamily: Montserrat
+    fontSize: 24px
+    fontWeight: '700'
+    lineHeight: 32px
+    letterSpacing: -0.01em
+  headline-sm:
+    fontFamily: Montserrat
+    fontSize: 20px
+    fontWeight: '600'
+    lineHeight: 28px
+  body-lg:
+    fontFamily: Inter
+    fontSize: 18px
+    fontWeight: '400'
+    lineHeight: 28px
+  body-md:
+    fontFamily: Inter
+    fontSize: 15px
+    fontWeight: '400'
+    lineHeight: 22px
+  body-sm:
+    fontFamily: Inter
+    fontSize: 13px
+    fontWeight: '400'
+    lineHeight: 18px
+  label-lg:
+    fontFamily: Montserrat
+    fontSize: 14px
+    fontWeight: '700'
+    lineHeight: 20px
+    letterSpacing: 0.02em
+  label-md:
+    fontFamily: Montserrat
+    fontSize: 12px
+    fontWeight: '700'
+    lineHeight: 16px
+    letterSpacing: 0.03em
+  label-sm:
+    fontFamily: Montserrat
+    fontSize: 10px
+    fontWeight: '800'
+    lineHeight: 14px
+    letterSpacing: 0.05em
+rounded:
+  sm: 0.25rem
+  DEFAULT: 0.5rem
+  md: 0.75rem
+  lg: 1rem
+  xl: 1.5rem
+  full: 9999px
+spacing:
+  gutter: 1rem
+  gutter-desktop: 1.5rem
+  margin: 1rem
+  margin-desktop: 2rem
+  space-xs: 0.25rem
+  space-sm: 0.5rem
+  space-md: 1rem
+  space-lg: 1.5rem
+  space-xl: 2.5rem
+---
+
+## Brand & Style
+This design system sets the aesthetic for a spirited, dark-mode e-commerce destination tailored to school children, teenagers, and university students across Kazakhstan seeking quirky Halloween-themed stationery, desk accessories, and collectibles.
+
+The design identity fuses **playful gothic whimsy** with **sleek modern e-commerce ergonomics**. Rather than relying on gory horror, the style leans into festive midnight energy: glowing jack-o'-lantern ambiances, crisp container surfaces, punchy neon luminescence, and cheerful pop iconography. The interface must evoke excitement, curiosity, and festive anticipation while maintaining pristine clarity for fast catalog browsing, basket building, and localized checkout (Kaspi Pay, Halyk, card payments).
+
+Visual movement draws from modern high-contrast digital storefronts: pitch-black foundations, elevated obsidian tiles, razor-sharp white typography, energetic neon orange borders, and dramatic blood-red tags for urgency and discounts.
+
+## Colors
+The palette is built around deep dark-mode contrast, engineered specifically for high visual pop on OLED and mobile screens:
+
+- **Canvas & Surfaces:**
+  - Base canvas (`#0D0D0D`): Pitch abyss that recedes into the background.
+  - Card & Container Surface (`#1A1A1A`): Lifted charcoal for clear interactive grouping.
+  - Elevated Popovers & Dropdowns (`#242424`): Highest tonal step for contextual floating overlays.
+- **Accents:**
+  - Vivid Halloween Orange (`#FF6B00`): The primary interaction beacon. Used for primary CTAs, active states, cart counters, and radiant neon halos.
+  - Blood Red (`#E50914`): Secondary accent reserved for discount callouts ("Ğ¡ĞºĞ¸Ğ´ĞºĞ° -30%"), stock scarcity alerts ("ĞÑÑ‚Ğ°Ğ»Ğ´`tcˆ4b4`‹ˆŠK[™š][\œ›Ü‹Ù\İXİ]™H›İYšXØ][ÛœË‚‹H
+Š›Ü™\œÈ	ˆ]šY\œÎŠŠ‚ˆHİXİ\™H›Ü™\ˆ
+ÌÌÌÌÌÌØ
+NˆİXHÛÛZ[›Y[™]™[[™ÈØ\™›YYYØZ[œİ\šÈÜ›İ[™Ë‚ˆHÛİÚ[™È›Øİ\ËĞXİ]™H›Ü™\ˆ
+Ñ‘Œ
+Nˆ\8 $Ìœİ]\ˆš[™ÈÛˆXİ]™H[œ]È[™İ™\ˆİ]\Ë‚‹H
+Š•\ÙÜ˜\NŠŠ‚ˆHÜš\ÜÚ]H
+Ñ‘‘‘‘‘˜
+NˆÛZ[˜[YÚXÛÛ˜\İ^›ÜˆXY\œËšXÙ\Ë[™[\˜Xİ]™HX™[Ë‚ˆH]]Y^
+ĞLLL
+NˆÙXÛÛ™\H\ØÜš\[ÛœËØ]YÛÜHœ™XYÜ[XœËY]Y]K[™XÙZÛ\ˆÛÜK‚‚ˆÈÈ\ÙÜ˜\B•\ÙÜ˜\H˜[[˜Ù\ÈÚ\˜Xİ\™[[˜ÚHXY[™\ÈÚ][[XXİ[]HŞ\š[XÈYÚXš[]K‚‚‹H
+Š‘\Ü^H	ˆXY[™\È
+[ÛÙ\œ˜]
+NŠŠˆÙ[ÛY]šXË›Û[™[™\™Ù]XËˆ]ÈÚYH›ÜÜ[ÛœÈ[™ÛÛYŞ\š[XÈÛ\ÈXZÙH\ÜÚX[ˆ›Û[İ[Û˜[˜[›™\œË\ØÛİ[Ë[™ÙXİ[Ûˆ]\È™Y[[İ][[™[˜ÚK‚‹H
+Š›ÙH	ˆ[˜İ[Û˜[RH
+[\ŠNŠŠˆYÚHYÚX›K™]]˜[ÛÜšÚÜœÙKˆ[œİ\™\È[œÙH›ÙXİÜXÚYšXØ][ÛœË[]™\H›İ\Ë[™˜\ÚÙ]İ[[X\šY\È™[XZ[ˆY™›Ü\ÜÈÈ™XY]™[ˆÛˆ[K[]™[[Øš[H]šXÙ\Ë‚‹H
+Š”šXÙH›Ü›X]ŠŠˆšXÙ\È][^™H[ÛÙ\œ˜]›ÛÑ^˜P›ÛZ\™Y\™XİHÚ]HØ^˜ZÚİ[ˆ[™ÙHÚYÛˆˆL8 ®ˆH›Û‹Xœ™XZÚ[™ÈÜXÙHÙ\\˜]\Èİ\Ø[™Ë‚‚ˆÈÈ^[İ]	ˆÜXÚ[™ÂH›ZYL‹XÛÛ[[ˆÜšYÛİ™\›œÈ\ÚİÜšY]ÜÚ[Ë˜[œÚ][Ûš[™È[ÈH‹XÛÛ[[ˆÜšYÛˆX›]Ë[™HXÛÛ[[ˆİXİ\™HÛˆ[Øš[H]šXÙ\Ë‚‚‹H
+Š‘ÜšY\˜Ú]Xİ\™NŠŠ‚ˆH[Øš[H
+Í
+NˆÛÛ[[œËX\™Ú[ˆ\™[Xİ]\ˆ\™[Xˆ›ÙXİ\İÈ\Ü^H[ˆHYÚYÚ][\È‹XÛÛ[[ˆØ\™ÜšY‚ˆHX›]
+Í8 $ÈL
+NˆˆÛÛ[[œËX\™Ú[ˆK\™[Xİ]\ˆKŒ\™[XˆËXÛÛ[[ˆ›ÙXİ\œ˜[™Ù[Y[Ë‚ˆH\ÚİÜ
+ˆL
+NˆLˆÛÛ[[œËX^]ÚYLÙ[\™YÛÛZ[™\‹X\™Ú[ˆœ™[Xİ]\ˆK\™[X‚‹H
+Š”š]H[\ÎŠŠ‚ˆHYÚHÛİ\Y[[Y[È
+XÛÛˆ
+ÈX™[˜YÙH^
+È[
+H][^™HÜXÙK^Ø
+
+HÜˆÜXÙK\ÛX
+
+K‚ˆH›Ü›HšY[Ü›İ\[™ÜÈ[™[\›˜[Ø\™Y[™È\ÙHÜXÙK[Y
+Mœ
+K‚ˆHÛÛ\Û™[İXÚÜÈ[™Ø\™Ù\\˜][Ûˆ\ÙHÜXÙK[Ø
+
+K‚ˆHÙXİ[Û‹]Ë\ÙXİ[Ûˆ˜\œ˜]]™H˜[œÚ][ÛœÈ\ÙHÜXÙK^
+
+K‚‚ˆÈÈ[]˜][Ûˆ	ˆ\‘\[ˆ\È\šÈ[š]™\œÙH]›ÚYÈ]YH›ÜÚYİÜÈ[ˆ˜]›ÜˆÙˆÜš\ÜÛ˜[Y\š[™ÈXØÙ[YH˜YX[˜XÚË[ÉË[[\›ˆ[Z[™\ØÙ[˜ÙN‚‚‹H
+Š“]™[
+Ø[˜\ÊNŠŠˆ\™HÌ˜\ÙK‚‹H
+Š“]™[H
+Ø\™È	ˆ[Ù[\ÊNŠŠˆÌPLPLPXÚ]H\ÛÛYÌÌÌÌÌÌØ›İ[™\K‚‹H
+Š“]™[ˆ
+İ™\™Y	ˆXİ]™H][\ÊNŠŠˆÌQLQLQXİ\™˜XÙHÚ]H[˜[ZXÈ™[ÛˆÛİÈÚYİÎˆMœ™Ø˜JMKLËŒÍJX˜[œÚ][Ûš[™ÈH›Ü™\ˆÈÑ‘Œ‚‹H
+Š“]™[È
+[Ù[Ëİ™\›^\Ë›Ø][™ÈØ\
+NŠŠˆÌ˜XÚÙYHH˜XÚÙ›Ü›\ˆ
+˜XÚÙ›ÜYš[\ˆ›\ŠLœ
+X
+H[™HY\][ÜÜ\šXÈÚYİÎˆLœÌœ™Ø˜J
+K™Ø˜JMKLËŒMJX‚‹H
+Š•\™Ù[ÔØØ\˜Ú]HXØÙ[ŠŠˆ›\ÚØ[H˜[›™\œÈ[™›ÛÙ\™YØ\™ÈØ\İHİXH[™Ù\ˆ]\˜NˆMœ™Ø˜JŒKKŒŒÊX‚‚ˆÈÈÚ\\Â‘Ù[ÛY]H\ÈœšY[™KÛÙ[™\›ØXÚX›K™]]˜[^š[™ÈHİ[X[H\œÚ[[Y[ÈÙˆ[İÙY[ˆ[È[ˆ[š][™È™]Z[][ÜÜ\™K‚‚‹H
+Š”š[X\H˜Y]\È
+›İ[™Y[YLœ
+NŠŠˆ\YYÈ[œ]šY[ËZ[šH˜YÙ\Ë[X›˜Z[Ü˜\\œËÙX\˜Ú˜\œË[™]X[]Hİ\\œË‚‹H
+ŠÛÛZ[™\ˆ˜Y]\È
+›İ[™Y[ØMœ
+NŠŠˆİ[™\™XÜ›ÜÜÈ›ÙXİØ\™Ë›Û[İ[Û˜[Ø[İ]Ë[Ù[Ë[™ÚXÚÛİ]İ[[X\HÚY]Ë‚‹H
+Š‘[[
+›İ[™YY[
+NŠŠˆ\YYÈİ]\È˜YÙ\ËÚ\ËØ]YÛÜHš[\œË[™š[X\H]ÛˆÕ\ÈÈ™Z[™›Ü˜ÙHH^Y[ŞK\İÜ™HXİ[]K‚‚ˆÈÈÛÛ\Û™[Â‚ˆÈÈÈ]ÛœÂ‹H
+Š”š[X\HÕH
+´$ˆ4.´-}İ2"Â-	íMíÍ-Â}­r"“¢¢¢f–ÆÆVB4dcd#ÂFW‡B3CCF†÷"4dddddf&öÆB’ÂgVÆÂ–ÆÂ6†R†&÷VæFVBÖgVÆÆ’âöâ†÷fW"Â66ÆW2'’ã"v—F‚â–çFVç6R&ÆööÒ6†F÷r†#‚&v&ƒ#SRÂrÂÂãb–’à¢Ò¢¥6V6öæF'’7F–öâ‚-	ıíMíİ]R"Â-	½-½’ıíÍí-"“¢¢¢v†÷7B7G–ÆRv—F‚3&6¶w&÷VæBÂ‚&÷&FW"3333336ÂFW‡B4dddddfâ†÷fW"6†ævW2&÷&FW"Fò4dcd#æBFW‡BFò4dcd#à¢Ò¢¤FW7G'V7F—fRõW&vVçB7F–öâ‚-
+=M½-Â"Â-	í}--Â"“¢¢¢G&ç6ÇV6VçB&VB&6¶w&÷VæB&v&ƒ##’Â’Â#ÂãR–ÂFW‡B4SS“FÂ&÷&FW"&v&ƒ##’Â’Â#ÂãB–à ¢222&öGV7B6&G0¢Ò'V–ÇBöâ3v—F‚g‚&÷&FW"×&F—W2æB‚3333336&÷&FW"à¢Ò–ÖvW26—Böâ6Æ–v‡FÇ’F&¶VæVB–ç6WB&÷‚†3##&’FòÆÆ÷r7F–6¶W"7FF–öæW'’ÂvÆ÷v–ærVç2ÂæBF÷—2Fò÷6ÆVæÇ’à¢Ò&–6RF—7Æ–VB–â†VFÆ–æR×6Öv—F‚7&—74dddddfæBFVævR7–Ö&öÂ†(+†’âöÆB&–6R†–bF—66÷VçFVB’7G'V6²F‡&÷Vv‚–â4à¢ÒF÷ÖÆVgB6Æ÷B&W6W'fVBf÷"fÆöF–ær&FvW2†
+]	
+&Â	İ	í	-		İ	­	ÂÓ3V’à ¢222&FvW2b6†—0¢Ò¢¤6FVv÷'’6†—2‚-
+-]-M‚"Â-
+=}­‚İ-½­-²"Â-
+½}İ‚‚½Í²"Â-	İ­½]­‚"“¢¢¢–ÆÂ×6†VBÂ3&6RÂ‚3333336÷WFÆ–æRÂ4FW‡Bâv†Vâ6VÆV7FVC¢4dcd#&6¶w&÷VæBÂ3CCFFW‡BÂ&öÆBvV–v‡Bà¢Ò¢¥&öÖò&FvW3¢¢¢–ÆÂ×6†VBÂÖöçG6W'&BÆ&VÂ×6ÖWW&66Rà¢Ò&ÆööB&VB&FvS¢4SS“F&6¶w&÷VæBv—F‚4dddddfFW‡Bf÷"6ÆW2‚"ÓCR"’à¢Ò7öö·’æVöâ&FvS¢4dcd#&6¶w&÷VæBv—F‚3CCFFW‡Bf÷"æ÷fVÇF–W2‚-
+]	
+""’à ¢222f÷&Ò–çWG2b6V&6€¢Ò–çWG2fVGW&R3CCF&6¶w&÷VæBÂ'‚&÷VæFVB6÷&æW'2Â3333336&÷&FW"ÂæB4dddddfG—VBFW‡Bv—F‚4Æ6V†öÆFW"‚-	İ-‚=}­‚Â½-­‚Â½í­İí-²âââ"’à¢Ò7F—fRôfö7W6VB7FFS¢ãW‚&÷&FW"4dcd#v—F‚7V'FÆR†Æò†‡‚&v&ƒ#SRÂrÂÂã2–’à ¢2226†V6¶&÷†W2b&F–ò'WGFöç0¢Ò#‚&÷VæFVB7V&W2†6†V6¶&÷‚’÷"6—&6ÆW2‡&F–ò’Â'‚&÷&FW"3333336Â&6¶w&÷VæB3à¢Ò6†V6¶VB7FFRf–ÆÇ2v—F‚4dcd#ÂfVGW&–ær7&—73CCF6†V6¶Ö&²÷"6VçFW"—à ¢222&–6R7FWW"…VçF—G’6VÆV7F÷"¢Ò–çFVw&FVB–ÆÂVæ—B6öçF–æ–ær(	6ÂçVÖW&–2VçF—G’ÂæB¶à¢Ò'WGFöç2&RfÆB6†&6öÂv—F‚4dcd#–6öâ7–Ö&öÇ3²çVÖW&–2fÇVR&VæFW&VB–â&öÆB–çFW"v†—FR
